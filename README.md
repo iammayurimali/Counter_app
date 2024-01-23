@@ -1,7 +1,7 @@
 
 1. Clone the repository to your local machine.
     ```sh
-    git clone https://github.com/thepranaygupta/react-tailwind-css-starter-pack.git
+    git clone https://github.com/iammayurimali/Counter_app.git
     ```
 
 1. Install the required packages.
